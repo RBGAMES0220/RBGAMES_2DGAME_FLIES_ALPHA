@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FLIES-ALPHA.unity
     guid: 49598a378079c064fa1dab57e4d13564
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: ef2063b6f250aa44bbc472291c25674e
   m_configObjects: {}
